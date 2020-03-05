@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #F0940B;
+}
+
+#cartographie {
+    height: 640px;
+}
